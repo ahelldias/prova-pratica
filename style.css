@@ -54,10 +54,12 @@
     line-height: 20px;
     text-align: justify;
     color: #333333;
-    width: 487px;
+    width: 483px;
+    height: 60px;
     margin-left: 4px;
     margin-right: 4px;
     margin-top: 24px;
+    margin-bottom: 35px;
 }
 .b{
     background-color: #333333;
@@ -76,7 +78,7 @@
     line-height: 18px;
     margin-left: 136px;
     margin-right: 137px;
-    margin-top: 37px;
+    gap: 10px;
 }
 .azul{
     margin-right: 12.025px;
